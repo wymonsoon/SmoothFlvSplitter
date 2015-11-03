@@ -6,4 +6,4 @@ This script helps to resolve this issue by carefully select several optimum spli
 
 I'd like to give special thanks to __Yusuke Shinyama__, who authored  the ['flv'](https://github.com/baijum/vnc2flv/blob/master/vnc2flv/flv.py) module of [__*'vnc2flv'*__](https://github.com/baijum/vnc2flv) project which comes rather handy in my project.
 
-Please check the help for usages.  
+All the output segments have no meta data.  Please use ['yamdi'](http://yamdi.sourceforge.net/) to insert accurate meta data.
